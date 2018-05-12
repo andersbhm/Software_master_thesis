@@ -98,6 +98,7 @@ def computation(name, start_year, start_month, start_day, start_hour, start_minu
 
         xagile, vagile = agile0.propagate(d.year, d.month, d.day, d.hour, d.minute, d.second + d.microsecond * 1.e-6)
         x0 = np.array(xagile)
+        print xagile
         X[0] = x0[0]
         Y[0] = x0[1]
         Z[0] = x0[2]
