@@ -1,3 +1,4 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
 
 #include <math.h>
 #include <stdio.h>      /* printf */

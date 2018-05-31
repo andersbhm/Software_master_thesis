@@ -1,3 +1,6 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018. The "int plot" function is based on MM 14/11/2016, used to plot the 2nd AGILE catalog
+
+
 int plot(TString save_path, TString inputfile, double t0, int contact, int usec, double propagation_time, double &obt_MCAL_mean)
 {
   // MM 14/11/2016 simplified version for Anders: read data file, plot light curve and energy vs. time scatter plot, convert AGILE internal time to UTC

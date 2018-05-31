@@ -1,3 +1,4 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
 
 // This software open MCAL_time_Etot.root, reduced_super_WWLLN.root and reduced_AGILE_pos.root.
 //It creates a file called histo_tree.root which is photons inside 0.5 second from production point,

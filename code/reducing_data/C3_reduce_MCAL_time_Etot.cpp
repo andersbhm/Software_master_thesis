@@ -1,3 +1,5 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
+
 using namespace std;
 static const double pi = M_PI; // pi
 //#include <math.h>       /* modf */

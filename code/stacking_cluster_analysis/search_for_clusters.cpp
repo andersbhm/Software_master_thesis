@@ -1,4 +1,5 @@
-//#include <math.h>       /* pow */
+
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
 
 
 void integral_hist(TH1D *h, double xmin, double xmax, double &integral){

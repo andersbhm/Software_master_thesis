@@ -1,3 +1,5 @@
+# Written by Anders Lindanger. Master thesis in spacephysics 2018
+
 from astropy.io import fits
 from astropy.table import Table
 from ROOT import TFile, TTree

@@ -1,3 +1,4 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
 
 //Software to find all WWLLN lightning in radius of 1000 km around footprint of reduced AGILE trajectory. WWLLN lightning will be stored in one .root ttree file
 

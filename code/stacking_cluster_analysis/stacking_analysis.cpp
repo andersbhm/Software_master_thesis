@@ -1,6 +1,6 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
+
 double golden_ratio = 1.618;
-
-
 
 // This software makes plots.
 // Input: .root you want to plot

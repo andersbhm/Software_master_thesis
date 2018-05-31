@@ -1,3 +1,5 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
+
 void add_usec_GRID(TString path_1, TString filename){
   gROOT->Reset();
   double obt_MCAL;

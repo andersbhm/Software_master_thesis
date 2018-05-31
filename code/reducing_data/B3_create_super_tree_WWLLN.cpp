@@ -1,3 +1,6 @@
+// Written by Anders Lindanger. Master thesis in spacephysics 2018
+
+
 // This software merge all WWLLN.root files (A20150323.root) to one large super_WWLLN.root file
 
 // Input: Example: A20150323.root to A20150623.root
