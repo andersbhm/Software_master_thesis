@@ -205,7 +205,7 @@ int background_hist(TString path, TString title_name, TString name_year){
     counter += 1;
 
     tree_unique_background->GetEntry(x);
-
+
 
     lightning_counter = lightning_counter +1 ;
 
